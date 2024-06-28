@@ -2,36 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//chanin.tech/blogs/a-story-on-a-achiver/</loc>
-    <lastmod>2024-04-08T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>//chanin.tech/blogs/</loc>
-    <lastmod>2024-04-08T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>//chanin.tech/</loc>
-    <lastmod>2024-04-08T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>//chanin.tech/about/</loc>
-    <lastmod>2022-04-09T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>//chanin.tech/projects/</loc>
-    <lastmod>2022-04-06T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>//chanin.tech/projects/reproducible-computational-drug-discovery/</loc>
-    <lastmod>2022-04-06T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>//chanin.tech/projects/acetylcholinesterase/</loc>
-    <lastmod>2022-04-04T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>//chanin.tech/tags/first/</loc>
+    <loc>https://nittesh-r.github.io/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>//chanin.tech/page/</loc>
+    <loc>https://nittesh-r.github.io/page/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>//chanin.tech/tags/</loc>
+    <loc>https://nittesh-r.github.io/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>//chanin.tech/categories/</loc>
+    <loc>https://nittesh-r.github.io/tags/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://nittesh-r.github.io/projects/acetylcholinesterase/</loc>
+  </url><url>
+    <loc>https://nittesh-r.github.io/about/</loc>
+  </url><url>
+    <loc>https://nittesh-r.github.io/blogs/a-story-on-a-achiver/</loc>
+  </url><url>
+    <loc>https://nittesh-r.github.io/blogs/</loc>
+  </url><url>
+    <loc>https://nittesh-r.github.io/categories/</loc>
+  </url><url>
+    <loc>https://nittesh-r.github.io/contact/</loc>
+  </url><url>
+    <loc>https://nittesh-r.github.io/music/</loc>
+  </url><url>
+    <loc>https://nittesh-r.github.io/projects/</loc>
   </url>
 </urlset>
